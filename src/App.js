@@ -5,7 +5,7 @@ import { AppContext } from './context/contextApi';
 function App() {
   return (
     <AppContext>
-      <div className="App">
+      <div >
       yt
     </div>
 
